@@ -3,8 +3,6 @@
 A way to share application logic between a React Web app and a React Native app,
 while keeping the individual component rendering unique to each platform.
 
-For a thorough discussion of this project, please read my [Blog Post][bg] about
-it.
 
 ## The app
 
